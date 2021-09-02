@@ -4,7 +4,7 @@ The Steam Game Detector finds your steam rich presence and converts it into a Di
 
 ## Installation
 
-Simple installation just run the setup file located in the Releases tab.
+Click on the releases tab, download the desired version and run the setup file. (source-code.zip is just the code for this file you are reading now and the screenshots folder)
 
 ## Why would I need this?
 

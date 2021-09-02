@@ -4,7 +4,11 @@ The Steam Game Detector finds your steam rich presence and converts it into a Di
 
 ## Installation
 
-Simple installation just run the setup file.
+Simple installation just run the setup file located in the Releases tab.
+
+## Why would I need this?
+
+Some games, such as Apex legends and CSGO support the Steam Rich presence to show what you are doing in the game, for example if you are in a Competitive game, however when you look at discord, it just says Apex Legends for 15 minutes for example. So this would support basically any game with Steam presence and convert it to a Discord presence
 
 ## Screenshots
 
@@ -13,7 +17,7 @@ Simple installation just run the setup file.
 
 ## How do I Request Game Icons
 
-As you can see in the pictures, the last image shows me playing forza, however the icon is the dafault steam one, this is because i havent added that icon to the Discord Application, If you would like a game icon, you can request one in the Discord server listed below.
+As you can see in the pictures, the last image shows me playing forza, however the icon is the dafault Steam icon, this is because i havent added that icon to the Discord Application, If you would like a game icon, you can request one in the Discord server listed below.
 
 
 ## Support/ Request Game Icons

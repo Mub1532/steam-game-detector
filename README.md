@@ -6,6 +6,10 @@ The Steam Game Detector finds your steam rich presence and converts it into a Di
 
 Click on the releases tab, download the desired version and run the setup file. (source-code.zip is just the code for this file you are reading now and the screenshots folder)
 
+## Hold on. Windows says: Windows protected your pc, is this a virus?
+
+No, its because i have not signed the application with windows, because that costs a lot of money
+
 ## Why would I need this?
 
 Some games, such as Apex legends and CSGO support the Steam Rich presence to show what you are doing in the game, for example if you are in a Competitive game, however when you look at discord, it just says Apex Legends for 15 minutes for example. So this would support basically any game with Steam presence and convert it to a Discord presence

@@ -18,6 +18,11 @@ Some games, such as Apex legends and CSGO support the Steam Rich presence to sho
 
 No, its because i have not signed the application with windows, because that costs a lot of money
 
+# Tested Versions
+
+Windows 10 Pro: Ryzen 3 2200g 8gb ram,
+Windows 7 ultimate 2009, ryzen 3 2200g, 768mb ram
+
 ## How do I Request Game Icons
 
 As you can see in the pictures, the last image shows me playing forza, however the icon is the dafault Steam icon, this is because i havent added that icon to the Discord Application, If you would like a game icon, you can request one in the Discord server listed below.

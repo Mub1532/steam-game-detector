@@ -33,4 +33,4 @@ As you can see in the pictures, the last image shows me playing forza, however t
 
 ## Copyright Credits
 
-Steam Game Detector icon: Getpaidstock.com 
+Steam Game Detector icon: Getty Images paid

@@ -2,7 +2,7 @@
 
 The Steam Game Detector finds your steam rich presence and converts it into a Discord Presence.
 
-## Installation
+## How to Download
 
 Click on the releases tab, download the desired version and run the setup file. (source-code.zip is just the code for this file you are reading now and the screenshots folder)
 

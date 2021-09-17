@@ -31,6 +31,6 @@ As you can see in the pictures, the last image shows me playing forza, however t
 ## Support/ Request Game Icons
 [Discord Server](https://discord.gg/8Hjfsp3VtF)
 
-##Copyright Credits
+## Copyright Credits
 
 Steam Game Detector icon: Getpaidstock.com 

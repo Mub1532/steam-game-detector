@@ -1,4 +1,4 @@
-**No longer being updated**
+**⚠️ No longer being updated ⚠️**
 
 # Steam Game Detector
 

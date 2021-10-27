@@ -1,3 +1,5 @@
+**No longer being updated**
+
 # Steam Game Detector
 
 The Steam Game Detector finds your steam rich presence and converts it into a Discord Presence.

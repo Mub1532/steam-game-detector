@@ -30,7 +30,9 @@ Windows 10 Pro: Ryzen 3 2200g 8gb ram,
 Windows 7 ultimate 2009, ryzen 3 2200g, 768mb ram
 
 ## Support/ Request Game Icons
-[Discord Server](https://discord.gg/8Hjfsp3VtF)
+<p>
+  <a href="https://discord.gg/FvjS3qNEm3"><img src="https://discordapp.com/api/guilds/791686349786710026/widget.png?style=banner2" alt="Discord server"></a>
+</p>
 
 ## Copyright Credits
 
